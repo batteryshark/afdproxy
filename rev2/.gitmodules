@@ -1,0 +1,15 @@
+[submodule "src/nativecore/dbg"]
+	path = src/nativecore/dbg
+	url = https://gitlab.com/nativecore/dbg
+[submodule "src/nativecore/mem"]
+	path = src/nativecore/mem
+	url = https://gitlab.com/nativecore/mem
+[submodule "src/nativecore/syscall"]
+	path = src/nativecore/syscall
+	url = https://gitlab.com/nativecore/syscall
+[submodule "src/nativecore/common"]
+	path = src/nativecore/common
+	url = https://gitlab.com/nativecore/common
+[submodule "src/nativecore/net"]
+	path = src/nativecore/net
+	url = https://gitlab.com/nativecore/net
